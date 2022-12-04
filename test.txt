@@ -1,1 +1,2 @@
 test file
+modified to test push from terminal
